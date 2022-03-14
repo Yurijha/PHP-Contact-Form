@@ -21,5 +21,5 @@ if($email != NULL) {
 }
 
 // Redirect to
-header("newcontact.html");
+header("index.html");
 ?>
